@@ -1,4 +1,4 @@
-
+//Image matching info provided from: http://www.w3schools.com/js/tryit.asp?filename=tryjs_intro_lightbulb
 
 function previous(){
 	
